@@ -1,22 +1,97 @@
 MANIFESTO FOR ACCOUNTING
 
-The current financial reporting system combines transaction verification with valuation interpretation. Although this combination has developed historically, it creates a structural tension between legal reality and accounting representation.
+**Against the silent transformation of property into debt**
 
-When wages are paid, the employee acquires a bank balance. Legally, this does not constitute ownership of specific money, but rather a claim on the credit institution. In practice, however, this balance is treated in personal accounting or asset representation as an asset without explicit reference to the underlying credit relationship.
+In my capacity as a researcher within the Graduate Program in Accountancy Administration at UCLL, I have identified a fundamental inconsistency within the Belgian banking system—an inconsistency that is not limited to technique or interpretation, but touches on the core of property rights, the hierarchy of norms, and the protection of labor.
 
-This discrepancy is not an error in double-entry bookkeeping, but points to an information asymmetry: the legal nature of the bank balance (claim) and its economic perception (available assets) do not fully coincide.
+What is presented today as “normal banking practice” is in reality a structural reclassification of wages: from inalienable property to mere debt.
 
-As a result, solvency and coverage of balances can only be assessed indirectly via the financial institution's general balance sheet. There is no structural link between individual balances and an explicit, externally verifiable coverage ratio.
+This manifesto is a call for legal and accounting rectification.
 
-In the current system, market valuations of financial institutions are partly determined by expectations regarding future cash flows and risk management. These valuations depend on interpretative assumptions (e.g., credit quality, liquidity management, and risk models). The gap between legal debt structure and economic valuation creates a space in which perception and trust play a central role.
+**I. The Conflict of Norms: Public Order versus Contractual Fiction**
 
-“Officially reported inflation is an accounting fiction that conceals the fact that every form of economic yield — from wages to profits — is hijacked by banks as collateral for liabilities, thereby diluting the real value of money creation through the unauthorized creation of debt.”
+The Belgian Wages Act of 1965 stipulates in its mandatory provisions (Articles 4 & 5) that wages are the inalienable property of the employee. This protection is a matter of public order.
 
-Current banking practice is based on the false assumption that citizens consent to the expropriation of their wage mass. However, according to Art. 5.65 of the Civil Code, when interpreting contracts, the actual common intention of the parties must be ascertained, rather than adhering to the literal meaning of the words.
+This norm is countered by the application of Article 110 of the Banking Act, whereby credit institutions classify wages paid by bank transfer as a claim on the bank.
 
-No employee or company intends, when opening a wage account, to transfer their title of ownership to a private institution to serve as speculative working capital. The real will of the citizen is safekeeping and immediate disposal, not the provision of an unsecured loan to a bank. 
+This is where the conflict of norms arises:
 
-The literal terms and conditions of the bank are intrinsically incompatible with this.
+The Wages Act guarantees ownership and free disposal.
 
+Banking practice reduces those same wages to a personal claim.
+
+This classification transforms the employee's property right (ownership) into a personal right (claim).
+The employee thus loses actual power of disposal and becomes subject to counterparty risk.
+
+When a public policy standard conflicts with a contractual construction, the higher standard should prevail.
+
+**II. The Accounting Construction: Information asymmetry as a system**
+
+The core of the problem lies in the accounting representation of giro money.
+
+**1. The Employer**
+
+For the employer, wage payment is an expense entry:
+
+Income statement: gross wage as an expense (class 62)
+
+Balance sheet: decrease of MAR 550 (bank account)
+
+The employer believes it is transferring “money.”
+In reality, only part of its claim on the bank is reallocated.
+
+No object of ownership circulates—only debt relationships shift.
+
+**2. The Employee**
+
+MAR 550 increases on the employee's balance sheet (if the employee were to do his accounting, which is fictitious but does exist).
+
+However, in accounting terms, he does not own any money, but a claim on the bank.
+
+He bears the credit risk of the financial institution, while the Wage Act protects his right of ownership.
+
+This is where the legal fault line lies.
+
+**III. The Bank: From Custodian to Operator**
+Banking Act, Article 110
+
+The bank is not a neutral intermediary.
+
+The wage deposit appears on its balance sheet:
+
+As a liability: debt to the customer.
+
+At the same time, as an operational basis for credit creation.
+
+Through fractional reserve banking, the wage pool is used for new lending.
+The bank generates interest income on deposits that it does not legally own.
+
+The resulting solvency ratios are reinforced by the way MAR 550 functions in the system. The counterparty risk remains largely invisible to the customer.
+
+When assets are presented without owning the underlying title, this creates a conflict with Article 1.10 of the Civil Code (abuse of rights).
+
+**IV. Unlawful Enrichment as a Structural Mechanism**
+
+The fruits of labor belong to the employee.
+
+If credit institutions generate interest income through money creation based on wage mass of which they are not the legal owners, a structural shift in value occurs:
+
+From labor to financial intermediary.
+
+This is not an incident, but a systemic pattern.
+
+Companies are included in this analysis because they bear the initial wage obligation and thus form the starting point of this legal transformation.
+
+**V. Strategic Legal Question: Exceptio Non Adimpleti Contractus**
+
+If a credit institution structurally fails to guarantee the title to wages in accordance with the Wage Act, the question arises as to the validity of the underlying reciprocal obligations.
+
+Article 5.239 of the Dutch Civil Code (Exceptio non adimpleti contractus) offers a possible legal instrument:
+
+If one party fails to fulfill its fundamental obligation, the other party may suspend the performance of its obligations.
+
+If the legal basis of the deposit agreement is affected by a conflict with public policy, this may have implications for derivative credit obligations.
+
+This requires thorough legal review.
 
 
